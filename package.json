@@ -1,0 +1,23 @@
+{
+  "name": "responsive-navbar",
+  "version": "1.0.0",
+  "description": "##Objective We will be building a navbar from scratch using HTML, CSS, and jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbusch19/responsive-navbar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbusch19/responsive-navbar/issues"
+  },
+  "homepage": "https://github.com/bbusch19/responsive-navbar#readme",
+  "dependencies": {
+    "browser-sync": "^2.12.8",
+    "gulp": "^3.9.1"
+  }
+}
